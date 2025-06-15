@@ -1,0 +1,9 @@
+commit b9cc31a9ea901d808fbd897f6a2553086ad88b1c (HEAD -> main, origin/main, origin/HEAD)
+Author: FeyziMogul <feyzimgl@gmail.com>
+Date:   Sun Jun 15 16:11:19 2025 +0300
+
+    Update and rename README.md to exception.py
+
+commit 1f6bee2d8b074e150c9d5462c22e1fdcd2e55ed0
+Author: FeyziMogul <feyzimgl@gmail.com>
+Date:   Sun Jun 15 16:10:49 2025 +0300
